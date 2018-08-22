@@ -1,0 +1,12 @@
+{
+  "name": "orgnummer",
+  "version": "0.1.0",
+  "organization namespace": "no.inductive.libraries",
+  "scientific namespace": "other.government.norway.organizationnumbers",
+  "imports": [
+    ["", "no.inductive.idea10.programs", "numbers", "0.1.1"]
+  ],
+  "development imports": [
+    ["", "no.inductive.idea10.programs", "testing", "0.1.1"]
+  ]
+}
